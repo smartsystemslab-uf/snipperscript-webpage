@@ -1,0 +1,950 @@
+{
+"result":{
+"query":"Christophe* bobda*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"16.46"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"153",
+"@dc":"153",
+"@oc":"153",
+"@id":"24417190",
+"text":"bobda"
+}
+},
+"hits":{
+"@total":"153",
+"@computed":"153",
+"@sent":"153",
+"@first":"0",
+"hit":[{
+"@score":"2",
+"@id":"55541",
+"info":{"authors":{"author":[{"@pid":"258/5116","text":"Willy Carlos Tchuitcheu"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"}]},"title":"Internet of smart-cameras for traffic lights optimization in smart cities.","venue":"Internet Things","volume":"11","pages":"100207","year":"2020","type":"Journal Articles","key":"journals/iot/TchuitcheuBP20","doi":"10.1016/J.IOT.2020.100207","ee":"https://doi.org/10.1016/j.iot.2020.100207","url":"https://dblp.org/rec/journals/iot/TchuitcheuBP20"},
+"url":"URL#55541"
+},
+{
+"@score":"2",
+"@id":"117721",
+"info":{"authors":{"author":[{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Hierarchical Design of a Secure Image Sensor with Dynamic Reconfiguration.","venue":"J. Signal Process. Syst.","volume":"92","number":"9","pages":"999-1015","year":"2020","type":"Journal Articles","key":"journals/vlsisp/BhowmikPB20","doi":"10.1007/S11265-020-01564-9","ee":"https://doi.org/10.1007/s11265-020-01564-9","url":"https://dblp.org/rec/journals/vlsisp/BhowmikPB20"},
+"url":"URL#117721"
+},
+{
+"@score":"2",
+"@id":"127346",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"267/5362","text":"Alex Shuping"},{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Architecture Support for FPGA Multi-tenancy in the Cloud.","venue":"ASAP","pages":"125-132","year":"2020","type":"Conference and Workshop Papers","key":"conf/asap/MbongueSBB20","doi":"10.1109/ASAP49362.2020.00030","ee":"https://doi.org/10.1109/ASAP49362.2020.00030","url":"https://dblp.org/rec/conf/asap/MbongueSBB20"},
+"url":"URL#127346"
+},
+{
+"@score":"2",
+"@id":"144843",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Accommodating Multi-Tenant FPGAs in the Cloud.","venue":"FCCM","pages":"214","year":"2020","type":"Conference and Workshop Papers","key":"conf/fccm/MbongueB20","doi":"10.1109/FCCM48280.2020.00045","ee":"https://doi.org/10.1109/FCCM48280.2020.00045","url":"https://dblp.org/rec/conf/fccm/MbongueB20"},
+"url":"URL#144843"
+},
+{
+"@score":"2",
+"@id":"144853",
+"info":{"authors":{"author":[{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"MeXT-SE - A System-Level Design Tool to Transparently Generate Secure MPSoC.","venue":"FCCM","pages":"216","year":"2020","type":"Conference and Workshop Papers","key":"conf/fccm/PanthoB20","doi":"10.1109/FCCM48280.2020.00047","ee":"https://doi.org/10.1109/FCCM48280.2020.00047","url":"https://dblp.org/rec/conf/fccm/PanthoB20"},
+"url":"URL#144853"
+},
+{
+"@score":"2",
+"@id":"197926",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Generation of Application-Specific FPGA Overlays with RapidWright.","venue":"CoRR","volume":"abs/2001.11886","year":"2020","type":"Informal Publications","key":"journals/corr/abs-2001-11886","ee":"https://arxiv.org/abs/2001.11886","url":"https://dblp.org/rec/journals/corr/abs-2001-11886"},
+"url":"URL#197926"
+},
+{
+"@score":"2",
+"@id":"200170",
+"info":{"authors":{"author":[{"@pid":"258/5116","text":"Willy Carlos Tchuitcheu"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"}]},"title":"Internet of Smart-Cameras for Traffic Lights Optimization in Smart Cities.","venue":"CoRR","volume":"abs/2002.05410","year":"2020","type":"Informal Publications","key":"journals/corr/abs-2002-05410","ee":"https://arxiv.org/abs/2002.05410","url":"https://dblp.org/rec/journals/corr/abs-2002-05410"},
+"url":"URL#200170"
+},
+{
+"@score":"2",
+"@id":"223880",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"267/5362","text":"Alex Shuping"},{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Architecture Support for FPGA Multi-tenancy in the Cloud.","venue":"CoRR","volume":"abs/2006.08026","year":"2020","type":"Informal Publications","key":"journals/corr/abs-2006-08026","ee":"https://arxiv.org/abs/2006.08026","url":"https://dblp.org/rec/journals/corr/abs-2006-08026"},
+"url":"URL#223880"
+},
+{
+"@score":"2",
+"@id":"396620",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"23/2353","text":"Russell Tessier"},{"@pid":"66/786","text":"Ken Eguro"},{"@pid":"15/3231","text":"Ryan Kastner"}]},"title":"Introduction to the Special Section on Security in FPGA-accelerated Cloud and Datacenters.","venue":"ACM Trans. Reconfigurable Technol. Syst.","volume":"12","number":"3","year":"2019","type":"Journal Articles","key":"journals/trets/BobdaTEK19","doi":"10.1145/3352060","ee":"https://doi.org/10.1145/3352060","url":"https://dblp.org/rec/journals/trets/BobdaTEK19"},
+"url":"URL#396620"
+},
+{
+"@score":"2",
+"@id":"416716",
+"info":{"authors":{"author":[{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Event-Based Re-configurable Hierarchical Processors for Smart Image Sensors.","venue":"ASAP","pages":"115-122","year":"2019","type":"Conference and Workshop Papers","key":"conf/asap/BhowmikPB19","doi":"10.1109/ASAP.2019.00-20","ee":"https://doi.org/10.1109/ASAP.2019.00-20","url":"https://dblp.org/rec/conf/asap/BhowmikPB19"},
+"url":"URL#416716"
+},
+{
+"@score":"2",
+"@id":"425705",
+"info":{"authors":{"author":[{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Generation of Application-Specific FPGA Overlays.","venue":"CASES","pages":"1-2","year":"2019","type":"Conference and Workshop Papers","key":"conf/cases/KwadjoMB19","ee":"https://ieeexplore.ieee.org/document/8944261","url":"https://dblp.org/rec/conf/cases/KwadjoMB19"},
+"url":"URL#425705"
+},
+{
+"@score":"2",
+"@id":"434516",
+"info":{"authors":{"author":[{"@pid":"217/9182","text":"Erman Nghonda Tchinda"},{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A distributed smart camera apparatus to enable scene immersion - work-in-progress.","venue":"CODES+ISSS","pages":"18:1-18:2","year":"2019","type":"Conference and Workshop Papers","key":"conf/codes/TchindaKB19","doi":"10.1145/3349567.3351716","ee":"https://doi.org/10.1145/3349567.3351716","url":"https://dblp.org/rec/conf/codes/TchindaKB19"},
+"url":"URL#434516"
+},
+{
+"@score":"2",
+"@id":"442378",
+"info":{"authors":{"author":[{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Visual Cortex Inspired Pixel-Level Re-configurable Processors for Smart Image Sensors.","venue":"DAC","pages":"235","year":"2019","type":"Conference and Workshop Papers","key":"conf/dac/BhowmikPB19","doi":"10.1145/3316781.3322481","ee":"https://doi.org/10.1145/3316781.3322481","url":"https://dblp.org/rec/conf/dac/BhowmikPB19"},
+"url":"URL#442378"
+},
+{
+"@score":"2",
+"@id":"467450",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"23/7613","text":"Sujan Kumar Saha"}]},"title":"MeXT - A Flow for Multiprocessor Exploration.","venue":"HPEC","pages":"1-7","year":"2019","type":"Conference and Workshop Papers","key":"conf/hpec/BobdaIMMS19","doi":"10.1109/HPEC.2019.8916428","ee":"https://doi.org/10.1109/HPEC.2019.8916428","url":"https://dblp.org/rec/conf/hpec/BobdaIMMS19"},
+"url":"URL#467450"
+},
+{
+"@score":"2",
+"@id":"467451",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"23/7613","text":"Sujan Kumar Saha"}]},"title":"Synthesis of Hardware Sandboxes for Trojan Mitigation in Systems on Chip.","venue":"HPEC","pages":"1-6","year":"2019","type":"Conference and Workshop Papers","key":"conf/hpec/BobdaWMS19","doi":"10.1109/HPEC.2019.8916526","ee":"https://doi.org/10.1109/HPEC.2019.8916526","url":"https://dblp.org/rec/conf/hpec/BobdaWMS19"},
+"url":"URL#467451"
+},
+{
+"@score":"2",
+"@id":"482475",
+"info":{"authors":{"author":[{"@pid":"175/4477","text":"Andrew Felder"},{"@pid":"249/4702","text":"Dillon Van Buskirk"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Generation of Waypoint Graphs from Distributed Ceiling-Mounted Smart Cameras for Decentralized Multi-Robot Indoor Navigation.","venue":"ICDSC","pages":"13:1-13:7","year":"2019","type":"Conference and Workshop Papers","key":"conf/icdsc/FelderBB19","doi":"10.1145/3349801.3349814","ee":"https://doi.org/10.1145/3349801.3349814","url":"https://dblp.org/rec/conf/icdsc/FelderBB19"},
+"url":"URL#482475"
+},
+{
+"@score":"2",
+"@id":"482478",
+"info":{"authors":{"author":[{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"217/9182","text":"Erman Nghonda Tchinda"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"249/4521","text":"Nareph Menadjou"},{"@pid":"249/4732","text":"Cedrique Fotsing"},{"@pid":"244/0233-2","text":"Nafissetou Nziengam 0002"},{"@pid":"244/0233-1","text":"Nafissetou Nziengam 0001"}]},"title":"From PC2BIM - Automatic Model generation from Indoor Point Cloud.","venue":"ICDSC","pages":"23:1-23:6","year":"2019","type":"Conference and Workshop Papers","key":"conf/icdsc/KwadjoTBMFNN19","doi":"10.1145/3349801.3349825","ee":"https://doi.org/10.1145/3349801.3349825","url":"https://dblp.org/rec/conf/icdsc/KwadjoTBMFNN19"},
+"url":"URL#482478"
+},
+{
+"@score":"2",
+"@id":"482479",
+"info":{"authors":{"author":[{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"217/9182","text":"Erman Nghonda Tchinda"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"194/5171","text":"Rosemary Nabaweesi"},{"@pid":"244/0233-1","text":"Nafissetou Nziengam 0001"},{"@pid":"249/4556","text":"Mary E. Aitken"},{"@pid":"249/4451","text":"Leanne Whiteside-Mansell"},{"@pid":"212/8294","text":"Shari Barkin"},{"@pid":"249/4661","text":"Samantha H. Mullins"},{"@pid":"249/4737","text":"Geoffrey Curran"}]},"title":"Automatic Assessment of Infant Sleep Safety Using Semantic Segmentation.","venue":"ICDSC","pages":"22:1-22:6","year":"2019","type":"Conference and Workshop Papers","key":"conf/icdsc/KwadjoTBNNAWBMC19","doi":"10.1145/3349801.3349824","ee":"https://doi.org/10.1145/3349801.3349824","url":"https://dblp.org/rec/conf/icdsc/KwadjoTBNNAWBMC19"},
+"url":"URL#482479"
+},
+{
+"@score":"2",
+"@id":"483833",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Generation of Application-Specific FPGA Overlays with RapidWright.","venue":"FPT","pages":"303-306","year":"2019","type":"Conference and Workshop Papers","key":"conf/icfpt/MbongueKB19","doi":"10.1109/ICFPT47387.2019.00053","ee":"https://doi.org/10.1109/ICFPT47387.2019.00053","url":"https://dblp.org/rec/conf/icfpt/MbongueKB19"},
+"url":"URL#483833"
+},
+{
+"@score":"2",
+"@id":"520564",
+"info":{"authors":{"author":[{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"23/7613","text":"Sujan Kumar Saha"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A Reconfigurable Layered-Based Bio-Inspired Smart Image Sensor.","venue":"ISVLSI","pages":"169-174","year":"2019","type":"Conference and Workshop Papers","key":"conf/isvlsi/BhowmikPSB19","doi":"10.1109/ISVLSI.2019.00039","ee":"https://doi.org/10.1109/ISVLSI.2019.00039","url":"https://dblp.org/rec/conf/isvlsi/BhowmikPSB19"},
+"url":"URL#520564"
+},
+{
+"@score":"2",
+"@id":"520620",
+"info":{"authors":{"author":[{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Neuromorphic Image Sensor Design with Region-Aware Processing.","venue":"ISVLSI","pages":"459-464","year":"2019","type":"Conference and Workshop Papers","key":"conf/isvlsi/PanthoBB19","doi":"10.1109/ISVLSI.2019.00089","ee":"https://doi.org/10.1109/ISVLSI.2019.00089","url":"https://dblp.org/rec/conf/isvlsi/PanthoBB19"},
+"url":"URL#520620"
+},
+{
+"@score":"2",
+"@id":"719723",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"64/2589","text":"Martin Gebser"},{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"s/TorstenSchaub","text":"Torsten Schaub"}]},"title":"High-level synthesis of on-chip multiprocessor architectures based on answer set programming.","venue":"J. Parallel Distributed Comput.","volume":"117","pages":"161-179","year":"2018","type":"Journal Articles","key":"journals/jpdc/BobdaYGIS18","doi":"10.1016/J.JPDC.2018.02.010","ee":"https://doi.org/10.1016/j.jpdc.2018.02.010","url":"https://dblp.org/rec/journals/jpdc/BobdaYGIS18"},
+"url":"URL#719723"
+},
+{
+"@score":"2",
+"@id":"720360",
+"info":{"authors":{"author":[{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Component interconnect and data access interface for embedded vision applications.","venue":"J. Real Time Image Process.","volume":"15","number":"4","pages":"759-773","year":"2018","type":"Journal Articles","key":"journals/jrtip/MefenzaYB18","doi":"10.1007/S11554-015-0515-5","ee":"https://doi.org/10.1007/s11554-015-0515-5","url":"https://dblp.org/rec/journals/jrtip/MefenzaYB18"},
+"url":"URL#720360"
+},
+{
+"@score":"2",
+"@id":"781013",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"25/4212-1","text":"David Andrews 0001"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"FPGAVirt - A Novel Virtualization Framework for FPGAs in the Cloud.","venue":"IEEE CLOUD","pages":"862-865","year":"2018","type":"Conference and Workshop Papers","key":"conf/IEEEcloud/MbongueHKAB18","doi":"10.1109/CLOUD.2018.00122","ee":"https://doi.org/10.1109/CLOUD.2018.00122","url":"https://dblp.org/rec/conf/IEEEcloud/MbongueHKAB18"},
+"url":"URL#781013"
+},
+{
+"@score":"2",
+"@id":"815002",
+"info":{"authors":{"author":[{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"17/11539","text":"Marjan Asadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Design of a Reconfigurable 3D Pixel-Parallel Neuromorphic Architecture for Smart Image Sensor.","venue":"CVPR Workshops","pages":"673-681","year":"2018","type":"Conference and Workshop Papers","key":"conf/cvpr/BhowmikPAB18","doi":"10.1109/CVPRW.2018.00110","ee":"http://openaccess.thecvf.com/content_cvpr_2018_workshops/w12/html/Bhowmik_Design_of_a_CVPR_2018_paper.html","url":"https://dblp.org/rec/conf/cvpr/BhowmikPAB18"},
+"url":"URL#815002"
+},
+{
+"@score":"2",
+"@id":"831319",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Inheriting Software Security Policies within Hardware IP Components.","venue":"FCCM","pages":"53-56","year":"2018","type":"Conference and Workshop Papers","key":"conf/fccm/HategekimanaMPB18","doi":"10.1109/FCCM.2018.00017","ee":"https://doi.org/10.1109/FCCM.2018.00017","url":"https://dblp.org/rec/conf/fccm/HategekimanaMPB18"},
+"url":"URL#831319"
+},
+{
+"@score":"2",
+"@id":"831332",
+"info":{"authors":{"author":[{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"25/4212-1","text":"David Andrews 0001"},{"@pid":"17/11539","text":"Marjan Asadinia"}]},"title":"Enabling Transparent Acceleration of OpenCV Library Kernels on a Hybrid Memory Cube Computer.","venue":"FCCM","pages":"217","year":"2018","type":"Conference and Workshop Papers","key":"conf/fccm/PanthoMBAA18","doi":"10.1109/FCCM.2018.00051","ee":"https://doi.org/10.1109/FCCM.2018.00051","url":"https://dblp.org/rec/conf/fccm/PanthoMBAA18"},
+"url":"URL#831332"
+},
+{
+"@score":"2",
+"@id":"833443",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Secure Hardware Kernels Execution in CPU+FPGA Heterogeneous Cloud.","venue":"FPT","pages":"182-189","year":"2018","type":"Conference and Workshop Papers","key":"conf/fpt/HategekimanaMPB18","doi":"10.1109/FPT.2018.00035","ee":"https://doi.org/10.1109/FPT.2018.00035","url":"https://dblp.org/rec/conf/fpt/HategekimanaMPB18"},
+"url":"URL#833443"
+},
+{
+"@score":"2",
+"@id":"833470",
+"info":{"authors":{"author":[{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"25/4212-1","text":"David Andrews 0001"}]},"title":"Transparent Acceleration of Image Processing Kernels on FPGA-Attached Hybrid Memory Cube Computers.","venue":"FPT","pages":"342-345","year":"2018","type":"Conference and Workshop Papers","key":"conf/fpt/PanthoMBA18","doi":"10.1109/FPT.2018.00069","ee":"https://doi.org/10.1109/FPT.2018.00069","url":"https://dblp.org/rec/conf/fpt/PanthoMBA18"},
+"url":"URL#833470"
+},
+{
+"@score":"2",
+"@id":"837994",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"FLexiTASK - A Flexible FPGA Overlay for Efficient Multitasking.","venue":"ACM Great Lakes Symposium on VLSI","pages":"483-486","year":"2018","type":"Conference and Workshop Papers","key":"conf/glvlsi/MbongueKB18","doi":"10.1145/3194554.3194644","ee":"https://doi.org/10.1145/3194554.3194644","url":"https://dblp.org/rec/conf/glvlsi/MbongueKB18"},
+"url":"URL#837994"
+},
+{
+"@score":"2",
+"@id":"851735",
+"info":{"authors":{"author":[{"@pid":"217/9172","text":"Joel Mandebi Mbongue"},{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"217/9394","text":"Danielle Tchuinkou Kwadjo"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"FPGA Virtualization in Cloud-Based Infrastructures Over Virtio.","venue":"ICCD","pages":"242-245","year":"2018","type":"Conference and Workshop Papers","key":"conf/iccd/MbongueHKB18","doi":"10.1109/ICCD.2018.00044","ee":"https://doi.org/10.1109/ICCD.2018.00044","url":"https://dblp.org/rec/conf/iccd/MbongueHKB18"},
+"url":"URL#851735"
+},
+{
+"@score":"2",
+"@id":"858470",
+"info":{"authors":{"author":[{"@pid":"217/9394","text":"Danielle Tchuinkou"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"R-Covnet - Recurrent Neural Convolution Network for 3D Object Recognition.","venue":"ICIP","pages":"331-335","year":"2018","type":"Conference and Workshop Papers","key":"conf/icip/TchuinkouB18","doi":"10.1109/ICIP.2018.8451243","ee":"https://doi.org/10.1109/ICIP.2018.8451243","url":"https://dblp.org/rec/conf/icip/TchuinkouB18"},
+"url":"URL#858470"
+},
+{
+"@score":"2",
+"@id":"890808",
+"info":{"authors":{"author":[{"@pid":"17/11539","text":"Marjan Asadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Enhancing Lifetime of PCM-Based Main Memory with Efficient Recovery of Stuck-at Faults.","venue":"ISVLSI","pages":"357-362","year":"2018","type":"Conference and Workshop Papers","key":"conf/isvlsi/AsadiniaB18","doi":"10.1109/ISVLSI.2018.00072","ee":"https://doi.org/10.1109/ISVLSI.2018.00072","url":"https://dblp.org/rec/conf/isvlsi/AsadiniaB18"},
+"url":"URL#890808"
+},
+{
+"@score":"2",
+"@id":"890887",
+"info":{"authors":{"author":[{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"201/5879","text":"Pankaj Bhowmik"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Pixel-Parallel Architecture for Neuromorphic Smart Image Sensor with Visual Attention.","venue":"ISVLSI","pages":"245-250","year":"2018","type":"Conference and Workshop Papers","key":"conf/isvlsi/PanthoBB18","doi":"10.1109/ISVLSI.2018.00053","ee":"https://doi.org/10.1109/ISVLSI.2018.00053","url":"https://dblp.org/rec/conf/isvlsi/PanthoBB18"},
+"url":"URL#890887"
+},
+{
+"@score":"2",
+"@id":"1135316",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"195/8121","text":"Joshua Mead"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"45/9386","text":"Charles A. Kamhoua"},{"@pid":"86/3876","text":"Kevin A. Kwiat"}]},"title":"Hardware Sandboxing - A Novel Defense Paradigm Against Hardware Trojans in Systems on Chip.","venue":"ARC","pages":"47-59","year":"2017","type":"Conference and Workshop Papers","key":"conf/arc/BobdaMWKK17","doi":"10.1007/978-3-319-56258-2_5","ee":"https://doi.org/10.1007/978-3-319-56258-2_5","url":"https://dblp.org/rec/conf/arc/BobdaMWKK17"},
+"url":"URL#1135316"
+},
+{
+"@score":"2",
+"@id":"1136142",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Secure integration of non-trusted IPs in SoCs.","venue":"AsianHOST","pages":"103-108","year":"2017","type":"Conference and Workshop Papers","key":"conf/asianhost/HategekimanaWPB17","doi":"10.1109/ASIANHOST.2017.8354003","ee":"https://doi.org/10.1109/AsianHOST.2017.8354003","url":"https://dblp.org/rec/conf/asianhost/HategekimanaWPB17"},
+"url":"URL#1136142"
+},
+{
+"@score":"2",
+"@id":"1153418",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Towards the application of flask security architecture to SoC design - work-in-progress.","venue":"CODES+ISSS","pages":"12:1-12:2","year":"2017","type":"Conference and Workshop Papers","key":"conf/codes/HategekimanaB17","doi":"10.1145/3125502.3125558","ee":"https://doi.org/10.1145/3125502.3125558","url":"https://dblp.org/rec/conf/codes/HategekimanaB17"},
+"url":"URL#1153418"
+},
+{
+"@score":"2",
+"@id":"1173450",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Applying the Flask Security Architecture to Secure SoC Design.","venue":"FCCM","pages":"198","year":"2017","type":"Conference and Workshop Papers","key":"conf/fccm/HategekimanaB17","doi":"10.1109/FCCM.2017.28","ee":"https://doi.org/10.1109/FCCM.2017.28","url":"https://dblp.org/rec/conf/fccm/HategekimanaB17"},
+"url":"URL#1173450"
+},
+{
+"@score":"2",
+"@id":"1173487",
+"info":{"authors":{"author":[{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"CAPSL - A Tool for Automatic Generation of Hardware Sandboxes for IP Security.","venue":"FCCM","pages":"200","year":"2017","type":"Conference and Workshop Papers","key":"conf/fccm/WhitakerB17","doi":"10.1109/FCCM.2017.54","ee":"https://doi.org/10.1109/FCCM.2017.54","url":"https://dblp.org/rec/conf/fccm/WhitakerB17"},
+"url":"URL#1173487"
+},
+{
+"@score":"2",
+"@id":"1175243",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"45/9386","text":"Charles A. Kamhoua"},{"@pid":"86/3876","text":"Kevin A. Kwiat"},{"@pid":"194/3916","text":"Laurent Njilla"}]},"title":"Automatic Generation of Hardware Sandboxes for Trojan Mitigation in Systems on Chip (Abstract Only).","venue":"FPGA","pages":"289","year":"2017","type":"Conference and Workshop Papers","key":"conf/fpga/BobdaWKKN17","ee":"http://dl.acm.org/citation.cfm?id=3021774","url":"https://dblp.org/rec/conf/fpga/BobdaWKKN17"},
+"url":"URL#1175243"
+},
+{
+"@score":"2",
+"@id":"1175330",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Shielding non-trusted IPs in SoCs.","venue":"FPL","pages":"1-4","year":"2017","type":"Conference and Workshop Papers","key":"conf/fpl/HategekimanaWPB17","doi":"10.23919/FPL.2017.8056848","ee":"https://doi.org/10.23919/FPL.2017.8056848","url":"https://dblp.org/rec/conf/fpl/HategekimanaWPB17"},
+"url":"URL#1175330"
+},
+{
+"@score":"2",
+"@id":"1183814",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"45/9386","text":"Charles A. Kamhoua"},{"@pid":"86/3876","text":"Kevin A. Kwiat"},{"@pid":"194/3916","text":"Laurent Njilla"}]},"title":"Synthesis of hardware sandboxes for Trojan mitigation in systems on chip.","venue":"HOST","pages":"172","year":"2017","type":"Conference and Workshop Papers","key":"conf/host/BobdaWKKN17","doi":"10.1109/HST.2017.7951836","ee":"https://doi.org/10.1109/HST.2017.7951836","url":"https://dblp.org/rec/conf/host/BobdaWKKN17"},
+"url":"URL#1183814"
+},
+{
+"@score":"2",
+"@id":"1197083",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"185/3498","text":"Cindy Roullet"},{"@pid":"00/2157","text":"Abdelaziz Bensrhair"},{"@pid":"43/3491","text":"Samia Ainouz"}]},"title":"SoC Design Of A Novel Cluster-Based Approach for Real-Time Lane Detection in Low Quality Images.","venue":"ICDSC","pages":"186-192","year":"2017","type":"Conference and Workshop Papers","key":"conf/icdsc/BobdaPRBA17","doi":"10.1145/3131885.3131934","ee":"https://doi.org/10.1145/3131885.3131934","url":"https://dblp.org/rec/conf/icdsc/BobdaPRBA17"},
+"url":"URL#1197083"
+},
+{
+"@score":"2",
+"@id":"1197106",
+"info":{"authors":{"author":[{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A System on FPGA for Fast Handwritten Digit Recognition in Embedded Smart Cameras.","venue":"ICDSC","pages":"35-40","year":"2017","type":"Conference and Workshop Papers","key":"conf/icdsc/PanthoHB17","doi":"10.1145/3131885.3131927","ee":"https://doi.org/10.1145/3131885.3131927","url":"https://dblp.org/rec/conf/icdsc/PanthoHB17"},
+"url":"URL#1197106"
+},
+{
+"@score":"2",
+"@id":"1231535",
+"info":{"authors":{"author":[{"@pid":"194/3930","text":"Taylor J. L. Whitaker"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"CAPSL - The Component Authentication Process for Sandboxed Layouts.","venue":"ISVLSI","pages":"409-414","year":"2017","type":"Conference and Workshop Papers","key":"conf/isvlsi/WhitakerB17","doi":"10.1109/ISVLSI.2017.78","ee":"https://doi.org/10.1109/ISVLSI.2017.78","url":"https://dblp.org/rec/conf/isvlsi/WhitakerB17"},
+"url":"URL#1231535"
+},
+{
+"@score":"2",
+"@id":"1392565",
+"info":{"authors":{"author":[{"@pid":"177/4136","text":"Jakob Anders"},{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"160/7658","text":"Zeyad Aklah"},{"@pid":"175/0365","text":"Kevin Gunn"}]},"title":"A hardware/software prototyping system for driving assistance investigations.","venue":"J. Real Time Image Process.","volume":"11","number":"3","pages":"559-569","year":"2016","type":"Journal Articles","key":"journals/jrtip/AndersMBYAG16","doi":"10.1007/S11554-013-0351-4","ee":"https://doi.org/10.1007/s11554-013-0351-4","url":"https://dblp.org/rec/journals/jrtip/AndersMBYAG16"},
+"url":"URL#1392565"
+},
+{
+"@score":"2",
+"@id":"1392684",
+"info":{"authors":{"author":[{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"137/0600","text":"Michael Mefenza"}]},"title":"Efficient network clustering for traffic reduction in embedded smart camera networks.","venue":"J. Real Time Image Process.","volume":"12","number":"4","pages":"813-826","year":"2016","type":"Journal Articles","key":"journals/jrtip/ZarezadehBYM16","doi":"10.1007/S11554-015-0498-2","ee":"https://doi.org/10.1007/s11554-015-0498-2","url":"https://dblp.org/rec/journals/jrtip/ZarezadehBYM16"},
+"url":"URL#1392684"
+},
+{
+"@score":"2",
+"@id":"1465534",
+"info":{"authors":{"author":[{"@pid":"217/9454","text":"Jeffrey Kutchka"},{"@pid":"217/9394","text":"Danielle Tchuinkou"},{"@pid":"217/9172","text":"Joel Mandebi"},{"@pid":"217/9182","text":"Erman Nghonda"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Assessment of Environmental Hazards for Fall Prevention Using Smart-Cameras.","venue":"CHASE","pages":"24-29","year":"2016","type":"Conference and Workshop Papers","key":"conf/chase/KutchkaTMNB16","doi":"10.1109/CHASE.2016.53","ee":"https://doi.org/10.1109/CHASE.2016.53","url":"https://dblp.org/rec/conf/chase/KutchkaTMNB16"},
+"url":"URL#1465534"
+},
+{
+"@score":"2",
+"@id":"1500640",
+"info":{"authors":{"author":[{"@pid":"195/8121","text":"Joshua Mead"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"194/3930","text":"Taylor J. L. Whitaker"}]},"title":"Defeating drone jamming with hardware sandboxing.","venue":"AsianHOST","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","key":"conf/host/MeadBW16","doi":"10.1109/ASIANHOST.2016.7835557","ee":"https://doi.org/10.1109/AsianHOST.2016.7835557","url":"https://dblp.org/rec/conf/host/MeadBW16"},
+"url":"URL#1500640"
+},
+{
+"@score":"2",
+"@id":"1512268",
+"info":{"authors":{"author":[{"@pid":"185/3461","text":"Franz-Josef Streit"},{"@pid":"185/3476","text":"Md Jubaer Hossain Pantho"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"185/3498","text":"Cindy Roullet"}]},"title":"Vision-Based Path Construction and Maintenance for Indoor Guidance of Autonomous Ground Vehicles Based on Collaborative Smart Cameras.","venue":"ICDSC","pages":"44-49","year":"2016","type":"Conference and Workshop Papers","key":"conf/icdsc/StreitPBR16","doi":"10.1145/2967413.2967425","ee":"https://doi.org/10.1145/2967413.2967425","url":"https://dblp.org/rec/conf/icdsc/StreitPBR16"},
+"url":"URL#1512268"
+},
+{
+"@score":"2",
+"@id":"1543472",
+"info":{"authors":{"author":[{"@pid":"03/8971","text":"Luca Bochi Saldanha"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Sparsely connected neural networks in FPGA for handwritten digit recognition.","venue":"ISQED","pages":"113-117","year":"2016","type":"Conference and Workshop Papers","key":"conf/isqed/SaldanhaB16","doi":"10.1109/ISQED.2016.7479185","ee":"https://doi.org/10.1109/ISQED.2016.7479185","url":"https://dblp.org/rec/conf/isqed/SaldanhaB16"},
+"url":"URL#1543472"
+},
+{
+"@score":"2",
+"@id":"1544494",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"204/5578","text":"Pierre-Alexis Nardin"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Hardware/Software Isolation and Protection Architecture for Transparent Security Enforcement in Networked Devices.","venue":"ISVLSI","pages":"140-145","year":"2016","type":"Conference and Workshop Papers","key":"conf/isvlsi/HategekimanaNB16","doi":"10.1109/ISVLSI.2016.32","ee":"https://doi.org/10.1109/ISVLSI.2016.32","url":"https://dblp.org/rec/conf/isvlsi/HategekimanaNB16"},
+"url":"URL#1544494"
+},
+{
+"@score":"2",
+"@id":"1695828",
+"info":{"authors":{"author":[{"@pid":"03/8971","text":"Luca Bochi Saldanha"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"An embedded system for handwritten digit recognition.","venue":"J. Syst. Archit.","volume":"61","number":"10","pages":"693-699","year":"2015","type":"Journal Articles","key":"journals/jsa/SaldanhaB15","doi":"10.1016/J.SYSARC.2015.07.015","ee":"https://doi.org/10.1016/j.sysarc.2015.07.015","url":"https://dblp.org/rec/journals/jsa/SaldanhaB15"},
+"url":"URL#1695828"
+},
+{
+"@score":"2",
+"@id":"1718772",
+"info":{"authors":{"author":[{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"180/0191","text":"Nicolas Edwards"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Interface Based Memory Synthesis of Image Processing Applications in FPGA.","venue":"SIGARCH Comput. Archit. News","volume":"43","number":"4","pages":"64-69","year":"2015","type":"Journal Articles","key":"journals/sigarch/MefenzaEB15","doi":"10.1145/2927964.2927976","ee":"https://doi.org/10.1145/2927964.2927976","url":"https://dblp.org/rec/journals/sigarch/MefenzaEB15"},
+"url":"URL#1718772"
+},
+{
+"@score":"2",
+"@id":"1734535",
+"info":{"authors":{"author":[{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"ASP-Based Encoding Model of Architecture Synthesis for Smart Cameras in Distributed Networks.","venue":"ACM Trans. Design Autom. Electr. Syst.","volume":"20","number":"2","pages":"27:1-27:28","year":"2015","type":"Journal Articles","key":"journals/todaes/YongaMB15","doi":"10.1145/2701419","ee":"https://doi.org/10.1145/2701419","url":"https://dblp.org/rec/journals/todaes/YongaMB15"},
+"url":"URL#1734535"
+},
+{
+"@score":"2",
+"@id":"1752967",
+"info":{"authors":{"author":[{"@pid":"160/7759","text":"Michael Metzner"},{"@pid":"18/4969","text":"Jesus Lizarraga"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Architecture Virtualization for Run-Time Hardware Multithreading on Field Programmable Gate Arrays.","venue":"ARC","pages":"167-178","year":"2015","type":"Conference and Workshop Papers","key":"conf/arc/MetznerLB15","doi":"10.1007/978-3-319-16214-0_14","ee":"https://doi.org/10.1007/978-3-319-16214-0_14","url":"https://dblp.org/rec/conf/arc/MetznerLB15"},
+"url":"URL#1752967"
+},
+{
+"@score":"2",
+"@id":"1789741",
+"info":{"authors":{"author":[{"@pid":"03/8971","text":"Luca Bochi Saldanha"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A System on Reconfigurable Chip for Handwritten Digit Recognition.","venue":"FCCM","pages":"166","year":"2015","type":"Conference and Workshop Papers","key":"conf/fccm/SaldanhaB15","doi":"10.1109/FCCM.2015.44","ee":"https://doi.org/10.1109/FCCM.2015.44","url":"https://dblp.org/rec/conf/fccm/SaldanhaB15"},
+"url":"URL#1789741"
+},
+{
+"@score":"2",
+"@id":"1870391",
+"info":{"authors":{"author":[{"@pid":"175/4774","text":"Festus Hategekimana"},{"@pid":"175/4411","text":"Adil Tbatou"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"45/9386","text":"Charles A. Kamhoua"},{"@pid":"86/3876","text":"Kevin A. Kwiat"}]},"title":"Hardware isolation technique for IRC-based botnets detection.","venue":"ReConFig","pages":"1-6","year":"2015","type":"Conference and Workshop Papers","key":"conf/reconfig/HategekimanaTBK15","doi":"10.1109/RECONFIG.2015.7393319","ee":"https://doi.org/10.1109/ReConFig.2015.7393319","url":"https://dblp.org/rec/conf/reconfig/HategekimanaTBK15"},
+"url":"URL#1870391"
+},
+{
+"@score":"2",
+"@id":"1870434",
+"info":{"authors":{"author":[{"@pid":"92/9553","text":"Nikhil Thomas"},{"@pid":"175/4477","text":"Andrew Felder"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Adaptive controller using runtime partial hardware reconfiguration for unmanned aerial vehicles (UAVs).","venue":"ReConFig","pages":"1-7","year":"2015","type":"Conference and Workshop Papers","key":"conf/reconfig/ThomasFB15","doi":"10.1109/RECONFIG.2015.7393288","ee":"https://doi.org/10.1109/ReConFig.2015.7393288","url":"https://dblp.org/rec/conf/reconfig/ThomasFB15"},
+"url":"URL#1870434"
+},
+{
+"@score":"2",
+"@id":"2066276",
+"info":{"authors":{"author":[{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"03/8971","text":"Luca Bochi Saldanha"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"85/6636","text":"Senem Velipasalar"}]},"title":"A framework for rapid prototyping of embedded vision applications.","venue":"DASIP","pages":"1-8","year":"2014","type":"Conference and Workshop Papers","key":"conf/dasip/MefenzaYSBV14","doi":"10.1109/DASIP.2014.7115621","ee":"https://doi.org/10.1109/DASIP.2014.7115621","url":"https://dblp.org/rec/conf/dasip/MefenzaYSBV14"},
+"url":"URL#2066276"
+},
+{
+"@score":"2",
+"@id":"2103144",
+"info":{"authors":{"author":[{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"161/6199","text":"Alfredo G. C. Junior"},{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"03/8971","text":"Luca Bochi Saldanha"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"85/6636","text":"Senem Velipasalar"}]},"title":"Self-Coordinated Target Assignment and Camera Handoff in Distributed Network of Embedded Smart Cameras.","venue":"ICDSC","pages":"16:1-16:8","year":"2014","type":"Conference and Workshop Papers","key":"conf/icdsc/YongaJMSBV14","doi":"10.1145/2659021.2659049","ee":"https://doi.org/10.1145/2659021.2659049","url":"https://dblp.org/rec/conf/icdsc/YongaJMSBV14"},
+"url":"URL#2103144"
+},
+{
+"@score":"2",
+"@id":"2147342",
+"info":{"authors":{"author":[{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic UVM Environment Generation for Assertion-Based and Functional Verification of SystemC Designs.","venue":"MTV","pages":"16-21","year":"2014","type":"Conference and Workshop Papers","key":"conf/mtv/MefenzaYB14","doi":"10.1109/MTV.2014.10","ee":"https://doi.org/10.1109/MTV.2014.10","url":"https://dblp.org/rec/conf/mtv/MefenzaYB14"},
+"url":"URL#2147342"
+},
+{
+"@score":"2",
+"@id":"2165460",
+"info":{"authors":{"author":[{"@pid":"23/100-3","text":"Ahmed Saeed 0003"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"03/3777","text":"Mike Just"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"An ID and Address Protection Unit for NoC based Communication Architectures.","venue":"SIN","pages":"288","year":"2014","type":"Conference and Workshop Papers","key":"conf/sin/SaeedAJB14","doi":"10.1145/2659651.2659719","ee":"https://doi.org/10.1145/2659651.2659719","url":"https://dblp.org/rec/conf/sin/SaeedAJB14"},
+"url":"URL#2165460"
+},
+{
+"@score":"2",
+"@id":"2289967",
+"info":{"authors":{"author":[{"@pid":"23/7908","text":"Volker Dworak"},{"@pid":"90/7907","text":"Jörn Selbeck"},{"@pid":"140/8692","text":"Karl-Heinz Dammer"},{"@pid":"74/6036","text":"Matthias Hoffmann"},{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Strategy for the Development of a Smart NDVI Camera System for Outdoor Plant Detection and Agricultural Embedded Systems.","venue":"Sensors","volume":"13","number":"2","pages":"1523-1538","year":"2013","type":"Journal Articles","key":"journals/sensors/DworakSDHZB13","doi":"10.3390/S130201523","ee":"https://doi.org/10.3390/s130201523","url":"https://dblp.org/rec/journals/sensors/DworakSDHZB13"},
+"url":"URL#2289967"
+},
+{
+"@score":"2",
+"@id":"2292552",
+"info":{"authors":{"author":[{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"ACM HotMobile 2013 poster - RazorCam - a prototyping environment for video communication.","venue":"ACM SIGMOBILE Mob. Comput. Commun. Rev.","volume":"17","number":"3","pages":"13-14","year":"2013","type":"Journal Articles","key":"journals/sigmobile/MefenzaYB13","doi":"10.1145/2542095.2542103","ee":"https://doi.org/10.1145/2542095.2542103","url":"https://dblp.org/rec/journals/sigmobile/MefenzaYB13"},
+"url":"URL#2292552"
+},
+{
+"@score":"2",
+"@id":"2406619",
+"info":{"authors":{"author":[{"@pid":"137/0600","text":"Michael Mefenza"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"FPGA Implementation of Subcarrier Index Modulation OFDM Transceiver.","venue":"IPDPS Workshops","pages":"268-272","year":"2013","type":"Conference and Workshop Papers","key":"conf/ipps/MefenzaB13","doi":"10.1109/IPDPSW.2013.117","ee":"https://doi.org/10.1109/IPDPSW.2013.117","url":"https://dblp.org/rec/conf/ipps/MefenzaB13"},
+"url":"URL#2406619"
+},
+{
+"@score":"2",
+"@id":"2528343",
+"info":{"authors":{"author":[{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Hardware Middleware for Person Tracking on Embedded Distributed Smart Cameras.","venue":"Int. J. Reconfigurable Comput.","volume":"2012","pages":"615824:1-615824:10","year":"2012","type":"Journal Articles","key":"journals/ijrc/ZarezadehB12","doi":"10.1155/2012/615824","ee":"https://doi.org/10.1155/2012/615824","url":"https://dblp.org/rec/journals/ijrc/ZarezadehB12"},
+"url":"URL#2528343"
+},
+{
+"@score":"2",
+"@id":"2614262",
+"info":{"authors":{"author":[{"@pid":"23/436","text":"Lars Middendorf"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"37/6859","text":"Christian Haubelt"}]},"title":"Hardware synthesis of recursive functions through partial stream rewriting.","venue":"DAC","pages":"1207-1215","year":"2012","type":"Conference and Workshop Papers","key":"conf/dac/MiddendorfBH12","doi":"10.1145/2228360.2228583","ee":"https://doi.org/10.1145/2228360.2228583","url":"https://dblp.org/rec/conf/dac/MiddendorfBH12"},
+"url":"URL#2614262"
+},
+{
+"@score":"2",
+"@id":"2645200",
+"info":{"authors":{"author":[{"@pid":"126/7542","text":"Franck Yonga"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"126/7541","text":"Ali Zarazadeh"}]},"title":"Improving video communication in distributed smart camera systems through ROI-based video analysis and compression.","venue":"ICDSC","pages":"1-6","year":"2012","type":"Conference and Workshop Papers","key":"conf/icdsc/YongaBZ12","ee":"http://ieeexplore.ieee.org/document/6470145/","url":"https://dblp.org/rec/conf/icdsc/YongaBZ12"},
+"url":"URL#2645200"
+},
+{
+"@score":"2",
+"@id":"2667241",
+"info":{"authors":{"author":[{"@pid":"b/JurgenBecker","text":"Jürgen Becker 0001"},{"@pid":"32/5098","text":"Jinian Bian"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"01/3376","text":"René Cumplido"},{"@pid":"56/2900","text":"Michael Hübner"}]},"title":"RAW Introduction.","venue":"IPDPS Workshops","pages":"208-212","year":"2012","type":"Conference and Workshop Papers","key":"conf/ipps/BeckerBBCH12","doi":"10.1109/IPDPSW.2012.335","ee":"https://doi.org/10.1109/IPDPSW.2012.335","url":"https://dblp.org/rec/conf/ipps/BeckerBBCH12"},
+"url":"URL#2667241"
+},
+{
+"@score":"2",
+"@id":"2699282",
+"info":{"authors":{"author":[{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Reducing communication costs on Dynamic Networks-on-Chip through runtime relocation of tasks.","venue":"RSP","pages":"177-182","year":"2012","type":"Conference and Workshop Papers","key":"conf/rsp/MahrB12","doi":"10.1109/RSP.2012.6380708","ee":"https://doi.org/10.1109/RSP.2012.6380708","url":"https://dblp.org/rec/conf/rsp/MahrB12"},
+"url":"URL#2699282"
+},
+{
+"@score":"2",
+"@id":"2898110",
+"info":{"authors":{"author":[{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Enabling communication infrastructure and protocol on embedded distributed smart cameras.","venue":"ICDSC","pages":"1-6","year":"2011","type":"Conference and Workshop Papers","key":"conf/icdsc/ZarezadehB11","doi":"10.1109/ICDSC.2011.6042922","ee":"https://doi.org/10.1109/ICDSC.2011.6042922","url":"https://dblp.org/rec/conf/icdsc/ZarezadehB11"},
+"url":"URL#2898110"
+},
+{
+"@score":"2",
+"@id":"2898111",
+"info":{"authors":{"author":[{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Probabilistic framework for person tracking on embedded distributed smart cameras.","venue":"ICDSC","pages":"1-6","year":"2011","type":"Conference and Workshop Papers","key":"conf/icdsc/ZarezadehB11a","doi":"10.1109/ICDSC.2011.6042934","ee":"https://doi.org/10.1109/ICDSC.2011.6042934","url":"https://dblp.org/rec/conf/icdsc/ZarezadehB11a"},
+"url":"URL#2898111"
+},
+{
+"@score":"2",
+"@id":"2919444",
+"info":{"authors":{"author":[{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"45/10102","text":"Steffen Christgau"},{"@pid":"37/6859","text":"Christian Haubelt"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Integrated Temporal Planning, Module Selection and Placement of Tasks for Dynamic Networks-on-Chip.","venue":"IPDPS Workshops","pages":"258-263","year":"2011","type":"Conference and Workshop Papers","key":"conf/ipps/MahrCHB11","doi":"10.1109/IPDPS.2011.150","ee":"https://doi.org/10.1109/IPDPS.2011.150","url":"https://dblp.org/rec/conf/ipps/MahrCHB11"},
+"url":"URL#2919444"
+},
+{
+"@score":"2",
+"@id":"2947953",
+"info":{"authors":{"author":[{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"58/10037","text":"Michael Großhans"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Rapid prototyping of OpenCV image processing applications using ASP.","venue":"International Symposium on Rapid System Prototyping","pages":"16-22","year":"2011","type":"Conference and Workshop Papers","key":"conf/rsp/MuhlbauerGB11","doi":"10.1109/RSP.2011.5929970","ee":"https://doi.org/10.1109/RSP.2011.5929970","url":"https://dblp.org/rec/conf/rsp/MuhlbauerGB11"},
+"url":"URL#2947953"
+},
+{
+"@score":"2",
+"@id":"3062537",
+"info":{"authors":{"author":[{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Heuristics for Flexible CMP Synthesis.","venue":"IEEE Trans. Computers","volume":"59","number":"8","pages":"1091-1104","year":"2010","type":"Journal Articles","key":"journals/tc/IshebabiB10","doi":"10.1109/TC.2010.77","ee":"https://doi.org/10.1109/TC.2010.77","url":"https://dblp.org/rec/journals/tc/IshebabiB10"},
+"url":"URL#3062537"
+},
+{
+"@score":"2",
+"@id":"3078799",
+"info":{"authors":{"author":[{"@pid":"61/6512","text":"Kevin Cheng"},{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"59/6664","text":"Camel Tanougast"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Auto-reconfiguration on self-organized intelligent platform.","venue":"AHS","pages":"309-316","year":"2010","type":"Conference and Workshop Papers","key":"conf/ahs/ChengZMTB10","doi":"10.1109/AHS.2010.5546243","ee":"https://doi.org/10.1109/AHS.2010.5546243","url":"https://dblp.org/rec/conf/ahs/ChengZMTB10"},
+"url":"URL#3078799"
+},
+{
+"@score":"2",
+"@id":"3099775",
+"info":{"authors":{"author":[{"@pid":"77/8815","text":"Robert Hartmann"},{"@pid":"66/9202","text":"Fadi Al Machot"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Camera-based system for tracking and position estimation of humans.","venue":"DASIP","pages":"62-67","year":"2010","type":"Conference and Workshop Papers","key":"conf/dasip/HartmannMMB10","doi":"10.1109/DASIP.2010.5706247","ee":"https://doi.org/10.1109/DASIP.2010.5706247","url":"https://dblp.org/rec/conf/dasip/HartmannMMB10"},
+"url":"URL#3099775"
+},
+{
+"@score":"2",
+"@id":"3105670",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"77/8815","text":"Robert Hartmann"},{"@pid":"61/6512","text":"Kevin Cheng"}]},"title":"Reconfigurable Architecture for Distributed Smart Cameras.","venue":"ERSA","pages":"166-178","year":"2010","type":"Conference and Workshop Papers","key":"conf/ersa/BobdaZMHC10","url":"https://dblp.org/rec/conf/ersa/BobdaZMHC10"},
+"url":"URL#3105670"
+},
+{
+"@score":"2",
+"@id":"3105693",
+"info":{"authors":{"author":[{"@pid":"23/436","text":"Lars Middendorf"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Declarative Programming with Handel-C.","venue":"ERSA","pages":"151-164","year":"2010","type":"Conference and Workshop Papers","key":"conf/ersa/MiddendorfB10","url":"https://dblp.org/rec/conf/ersa/MiddendorfB10"},
+"url":"URL#3105693"
+},
+{
+"@score":"2",
+"@id":"3105708",
+"info":{"authors":{"author":[{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Hardware ORB Middleware for Distributed Smart Camera Systems.","venue":"ERSA","pages":"104-116","year":"2010","type":"Conference and Workshop Papers","key":"conf/ersa/ZarezadehB10","url":"https://dblp.org/rec/conf/ersa/ZarezadehB10"},
+"url":"URL#3105708"
+},
+{
+"@score":"2",
+"@id":"3140782",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"86/8360","text":"Benjamin Andres"},{"@pid":"89/5529","text":"Harold Ishebabi"}]},"title":"Application-driven architecture synthesis of on-chip Multiprocessor systems.","venue":"HPCS","pages":"591-598","year":"2010","type":"Conference and Workshop Papers","key":"conf/ieeehpcs/BobdaMAI10","doi":"10.1109/HPCS.2010.5547070","ee":"https://doi.org/10.1109/HPCS.2010.5547070","url":"https://dblp.org/rec/conf/ieeehpcs/BobdaMAI10"},
+"url":"URL#3140782"
+},
+{
+"@score":"2",
+"@id":"3175346",
+"info":{"authors":{"author":[{"@pid":"43/8815","text":"Ali Akbar Zarezadeh"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Performance Analysis of Hardware/Software Middleware in Network of Smart Camera Systems.","venue":"ReConFig","pages":"196-201","year":"2010","type":"Conference and Workshop Papers","key":"conf/reconfig/ZarezadehB10","doi":"10.1109/RECONFIG.2010.59","ee":"https://doi.org/10.1109/ReConFig.2010.59","url":"https://dblp.org/rec/conf/reconfig/ZarezadehB10"},
+"url":"URL#3175346"
+},
+{
+"@score":"2",
+"@id":"3176432",
+"info":{"authors":{"author":[{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Reconfigurable router for dynamic Networks-on-Chip.","venue":"International Symposium on Rapid System Prototyping","pages":"1-6","year":"2010","type":"Conference and Workshop Papers","key":"conf/rsp/MahrB10","doi":"10.1109/RSP.2010.5656341","ee":"https://doi.org/10.1109/RSP.2010.5656341","url":"https://dblp.org/rec/conf/rsp/MahrB10"},
+"url":"URL#3176432"
+},
+{
+"@score":"2",
+"@id":"3180846",
+"info":{"authors":{"author":[{"@pid":"03/8971","text":"Luca Bochi Saldanha"},{"@pid":"77/8815","text":"Robert Hartmann"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Scratch Detector - A FPGA Based System for Scratch Detection in Industrial Picture Development.","venue":"SIES","pages":"57-62","year":"2010","type":"Conference and Workshop Papers","key":"conf/sies/SaldanhaHB10","doi":"10.1109/SIES.2010.5551390","ee":"https://doi.org/10.1109/SIES.2010.5551390","url":"https://dblp.org/rec/conf/sies/SaldanhaHB10"},
+"url":"URL#3180846"
+},
+{
+"@score":"2",
+"@id":"3198063",
+"info":{"authors":{"author":[{"@pid":"60/4455","text":"Josef Angermeier"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Erlangen Slot Machine - An FPGA-Based Dynamically Reconfigurable Computing Platform.","venue":"Dynamically Reconfigurable Systems","pages":"51-71","year":"2010","type":"Parts in Books or Collections","key":"books/sp/platzner2010/AngermeierBMT10","doi":"10.1007/978-90-481-3485-4_3","ee":"https://doi.org/10.1007/978-90-481-3485-4_3","url":"https://dblp.org/rec/books/sp/platzner2010/AngermeierBMT10"},
+"url":"URL#3198063"
+},
+{
+"@score":"2",
+"@id":"3250511",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"61/6512","text":"Kevin Cheng"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"25/8351","text":"Klaus Drechsler"},{"@pid":"74/11332","text":"Jan Schulte"},{"@pid":"36/2094","text":"Dominik Murr"},{"@pid":"59/6664","text":"Camel Tanougast"}]},"title":"Enabling Self-Organization in Embedded Systems with Reconfigurable Hardware.","venue":"Int. J. Reconfigurable Comput.","volume":"2009","pages":"161458:1-161458:9","year":"2009","type":"Journal Articles","key":"journals/ijrc/BobdaCMDSMT09","doi":"10.1155/2009/161458","ee":"https://doi.org/10.1155/2009/161458","url":"https://dblp.org/rec/journals/ijrc/BobdaCMDSMT09"},
+"url":"URL#3250511"
+},
+{
+"@score":"2",
+"@id":"3250523",
+"info":{"authors":{"author":[{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"64/2589","text":"Martin Gebser"},{"@pid":"s/TorstenSchaub","text":"Torsten Schaub"}]},"title":"Answer Set versus Integer Linear Programming for Automatic Synthesis of Multiprocessor Systems from Real-Time Parallel Programs.","venue":"Int. J. Reconfigurable Comput.","volume":"2009","pages":"863630:1-863630:11","year":"2009","type":"Journal Articles","key":"journals/ijrc/IshebabiMBGS09","doi":"10.1155/2009/863630","ee":"https://doi.org/10.1155/2009/863630","url":"https://dblp.org/rec/journals/ijrc/IshebabiMBGS09"},
+"url":"URL#3250523"
+},
+{
+"@score":"2",
+"@id":"3266126",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"Special issue on ReCoSoC 2007.","venue":"Microprocess. Microsystems","volume":"33","number":"1","pages":"1","year":"2009","type":"Journal Articles","key":"journals/mam/Bobda09","doi":"10.1016/J.MICPRO.2009.01.001","ee":"https://doi.org/10.1016/j.micpro.2009.01.001","url":"https://dblp.org/rec/journals/mam/Bobda09"},
+"url":"URL#3266126"
+},
+{
+"@score":"2",
+"@id":"3266141",
+"info":{"authors":{"author":[{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automated architecture synthesis for parallel programs on FPGA multiprocessor systems.","venue":"Microprocess. Microsystems","volume":"33","number":"1","pages":"63-71","year":"2009","type":"Journal Articles","key":"journals/mam/IshebabiB09","doi":"10.1016/J.MICPRO.2008.08.009","ee":"https://doi.org/10.1016/j.micpro.2008.08.009","url":"https://dblp.org/rec/journals/mam/IshebabiB09"},
+"url":"URL#3266141"
+},
+{
+"@score":"2",
+"@id":"3266144",
+"info":{"authors":{"author":[{"@pid":"45/1658","text":"Slavisa Jovanovic"},{"@pid":"59/6664","text":"Camel Tanougast"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"68/2370","text":"Serge Weber"}]},"title":"CuNoC - A dynamic scalable communication structure for dynamically reconfigurable FPGAs.","venue":"Microprocess. Microsystems","volume":"33","number":"1","pages":"24-36","year":"2009","type":"Journal Articles","key":"journals/mam/JovanovicTBW09","doi":"10.1016/J.MICPRO.2008.08.004","ee":"https://doi.org/10.1016/j.micpro.2008.08.004","url":"https://dblp.org/rec/journals/mam/JovanovicTBW09"},
+"url":"URL#3266144"
+},
+{
+"@score":"2",
+"@id":"3333359",
+"info":{"authors":{"author":[{"@pid":"45/1658","text":"Slavisa Jovanovic"},{"@pid":"59/6664","text":"Camel Tanougast"},{"@pid":"68/2370","text":"Serge Weber"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A new deadlock-free fault-tolerant routing algorithm for NoC interconnections.","venue":"FPL","pages":"326-331","year":"2009","type":"Conference and Workshop Papers","key":"conf/fpl/JovanovicTWB09","doi":"10.1109/FPL.2009.5272274","ee":"https://doi.org/10.1109/FPL.2009.5272274","url":"https://dblp.org/rec/conf/fpl/JovanovicTWB09"},
+"url":"URL#3333359"
+},
+{
+"@score":"2",
+"@id":"3380502",
+"info":{"authors":{"author":[{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"64/2589","text":"Martin Gebser"},{"@pid":"s/TorstenSchaub","text":"Torsten Schaub"}]},"title":"Application of ASP for Automatic Synthesis of Flexible Multiprocessor Systems from Parallel Programs.","venue":"LPNMR","pages":"598-603","year":"2009","type":"Conference and Workshop Papers","key":"conf/lpnmr/IshebabiMBGS09","doi":"10.1007/978-3-642-04238-6_64","ee":"https://doi.org/10.1007/978-3-642-04238-6_64","url":"https://dblp.org/rec/conf/lpnmr/IshebabiMBGS09"},
+"url":"URL#3380502"
+},
+{
+"@score":"2",
+"@id":"3542227",
+"info":{"authors":{"author":[{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Makespan minimization in automatic synthesis of multiprocessor systems from parallel programs.","venue":"FPT","pages":"281-284","year":"2008","type":"Conference and Workshop Papers","key":"conf/fpt/IshebabiMB08","doi":"10.1109/FPT.2008.4762398","ee":"https://doi.org/10.1109/FPT.2008.4762398","url":"https://dblp.org/rec/conf/fpt/IshebabiMB08"},
+"url":"URL#3542227"
+},
+{
+"@score":"2",
+"@id":"3599491",
+"info":{"authors":{"author":[{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Synthesis of Multiprocessor Systems from Parallel Programs under Preemptive Scheduling.","venue":"ReConFig","pages":"19-24","year":"2008","type":"Conference and Workshop Papers","key":"conf/reconfig/IshebabiMB08","doi":"10.1109/RECONFIG.2008.8","ee":"https://doi.org/10.1109/ReConFig.2008.8","url":"https://dblp.org/rec/conf/reconfig/IshebabiMB08"},
+"url":"URL#3599491"
+},
+{
+"@score":"2",
+"@id":"3599503",
+"info":{"authors":{"author":[{"@pid":"69/7265","text":"Philipp Mahr"},{"@pid":"87/7946","text":"Christian Lorchner"},{"@pid":"89/5529","text":"Harold Ishebabi"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"SoC-MPI - A Flexible Message Passing Library for Multiprocessor Systems-on-Chips.","venue":"ReConFig","pages":"187-192","year":"2008","type":"Conference and Workshop Papers","key":"conf/reconfig/MahrLIB08","doi":"10.1109/RECONFIG.2008.27","ee":"https://doi.org/10.1109/ReConFig.2008.27","url":"https://dblp.org/rec/conf/reconfig/MahrLIB08"},
+"url":"URL#3599503"
+},
+{
+"@score":"2",
+"@id":"3630856",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"Introduction to reconfigurable computing - architectures, algorithms, and applications.","pages":"I-XXIV, 1-359","publisher":"Springer","year":"2007","type":"Books and Theses","key":"books/daglib/0020731","doi":"10.1007/978-1-4020-6100-4","ee":"https://doi.org/10.1007/978-1-4020-6100-4","url":"https://dblp.org/rec/books/daglib/0020731"},
+"url":"URL#3630856"
+},
+{
+"@score":"2",
+"@id":"3700059",
+"info":{"authors":{"author":[{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"The Erlangen Slot Machine - A Dynamically Reconfigurable FPGA-based Computer.","venue":"J. VLSI Signal Process.","volume":"47","number":"1","pages":"15-31","year":"2007","type":"Journal Articles","key":"journals/vlsisp/MajerTAB07","doi":"10.1007/S11265-006-0017-6","ee":"https://doi.org/10.1007/s11265-006-0017-6","url":"https://dblp.org/rec/journals/vlsisp/MajerTAB07"},
+"url":"URL#3700059"
+},
+{
+"@score":"2",
+"@id":"3731819",
+"info":{"authors":{"author":[{"@pid":"16/99","text":"Harding Djakou Chati"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"22/421","text":"Tim Braun"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"b/KBerns","text":"Karsten Berns"}]},"title":"Hardware/Software co-design of a key point detector on FPGA.","venue":"FCCM","pages":"355-356","year":"2007","type":"Conference and Workshop Papers","key":"conf/fccm/ChatiMBBB07","doi":"10.1109/FCCM.2007.61","ee":"https://doi.org/10.1109/FCCM.2007.61","url":"https://dblp.org/rec/conf/fccm/ChatiMBBB07"},
+"url":"URL#3731819"
+},
+{
+"@score":"2",
+"@id":"3732954",
+"info":{"authors":{"author":[{"@pid":"16/99","text":"Harding Djakou Chati"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"22/421","text":"Tim Braun"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"b/KBerns","text":"Karsten Berns"}]},"title":"SoPC architecture for a Key Point Detector.","venue":"FPL","pages":"710-713","year":"2007","type":"Conference and Workshop Papers","key":"conf/fpl/ChatiMBBB07","doi":"10.1109/FPL.2007.4380751","ee":"https://doi.org/10.1109/FPL.2007.4380751","url":"https://dblp.org/rec/conf/fpl/ChatiMBBB07"},
+"url":"URL#3732954"
+},
+{
+"@score":"2",
+"@id":"3732996",
+"info":{"authors":{"author":[{"@pid":"45/1658","text":"Slavisa Jovanovic"},{"@pid":"59/6664","text":"Camel Tanougast"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"68/2370","text":"Serge Weber"}]},"title":"CuNoC - A Scalable Dynamic NoC for Dynamically Reconfigurable FPGAs.","venue":"FPL","pages":"753-756","year":"2007","type":"Conference and Workshop Papers","key":"conf/fpl/JovanovicTBW07","doi":"10.1109/FPL.2007.4380761","ee":"https://doi.org/10.1109/FPL.2007.4380761","url":"https://dblp.org/rec/conf/fpl/JovanovicTBW07"},
+"url":"URL#3732996"
+},
+{
+"@score":"2",
+"@id":"3759179",
+"info":{"authors":{"author":[{"@pid":"23/436","text":"Lars Middendorf"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"33/4718","text":"Georg Umlauf"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Embedded Vertex Shader in FPGA.","venue":"IESS","pages":"155-164","year":"2007","type":"Conference and Workshop Papers","key":"conf/iess/MiddendorfMUB07","doi":"10.1007/978-0-387-72258-0_14","ee":"https://doi.org/10.1007/978-0-387-72258-0_14","url":"https://dblp.org/rec/conf/iess/MiddendorfMUB07"},
+"url":"URL#3759179"
+},
+{
+"@score":"2",
+"@id":"3759180",
+"info":{"authors":{"author":[{"@pid":"36/2094","text":"Dominik Murr"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"d/FalkoDressler","text":"Falko Dressler"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Utilizing Reconfigurable Hardware to Optimize Workflows in Networked Nodes.","venue":"IESS","pages":"373-386","year":"2007","type":"Conference and Workshop Papers","key":"conf/iess/MurrMDB07","doi":"10.1007/978-0-387-72258-0_32","ee":"https://doi.org/10.1007/978-0-387-72258-0_32","url":"https://dblp.org/rec/conf/iess/MurrMDB07"},
+"url":"URL#3759180"
+},
+{
+"@score":"2",
+"@id":"3789317",
+"info":{"authors":{"author":[{"@pid":"52/4857","text":"Thomas Haller"},{"@pid":"21/1296","text":"José Rodrigo Azambuja"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Automatic Generation of Adaptive Multiprocessor Systems.","venue":"ReCoSoC","pages":"192-193","year":"2007","type":"Conference and Workshop Papers","key":"conf/recosoc/HallerAB07","url":"https://dblp.org/rec/conf/recosoc/HallerAB07"},
+"url":"URL#3789317"
+},
+{
+"@score":"2",
+"@id":"3789318",
+"info":{"authors":{"author":[{"@pid":"52/4857","text":"Thomas Haller"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Adaptive Network for Multiprocessing in Programmable Logic Devices.","venue":"ReCoSoC","pages":"106-110","year":"2007","type":"Conference and Workshop Papers","key":"conf/recosoc/HallerB07","url":"https://dblp.org/rec/conf/recosoc/HallerB07"},
+"url":"URL#3789318"
+},
+{
+"@score":"2",
+"@id":"3789322",
+"info":{"authors":{"author":[{"@pid":"45/1658","text":"Slavisa Jovanovic"},{"@pid":"59/6664","text":"Camel Tanougast"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"68/2370","text":"Serge Weber"}]},"title":"A Dynamic Communication Structure for Dynamically Reconfigurable FPGAs.","venue":"ReCoSoC","pages":"98-105","year":"2007","type":"Conference and Workshop Papers","key":"conf/recosoc/JovanovicTBW07","url":"https://dblp.org/rec/conf/recosoc/JovanovicTBW07"},
+"url":"URL#3789322"
+},
+{
+"@score":"2",
+"@id":"3791980",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"52/4857","text":"Thomas Haller"},{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"41/2910","text":"Dennis Rech"},{"@pid":"61/5595","text":"Simon Jung"}]},"title":"Design of adaptive multiprocessor on chip systems.","venue":"SBCCI","pages":"177-183","year":"2007","type":"Conference and Workshop Papers","key":"conf/sbcci/BobdaHMRJ07","doi":"10.1145/1284480.1284531","ee":"https://doi.org/10.1145/1284480.1284531","url":"https://dblp.org/rec/conf/sbcci/BobdaHMRJ07"},
+"url":"URL#3791980"
+},
+{
+"@score":"2",
+"@id":"3811954",
+"info":{"authors":{"author":[{"@pid":"88/5014","text":"Gilles Sassatelli"},{"@pid":"g/ManfredGlesner","text":"Manfred Glesner"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"99/1313","text":"Pascal Benoit"}]},"title":"Proceedings of the 3rd International Workshop on Reconfigurable Communication-centric Systems-on-Chip, ReCoSoC 2007, Montpellier, France, June 2007","venue":"ReCoSoC","publisher":"Univ. Montpellier II","year":"2007","type":"Editorship","key":"conf/recosoc/2007","url":"https://dblp.org/rec/conf/recosoc/2007"},
+"url":"URL#3811954"
+},
+{
+"@score":"2",
+"@id":"3835261",
+"info":{"authors":{"author":[{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A Dynamic Reconfigurable Hardware/Software Architecture for Object Tracking in Video Streams.","venue":"EURASIP J. Embed. Syst.","volume":"2006","year":"2006","type":"Journal Articles","key":"journals/ejes/MuhlbauerB06","doi":"10.1155/ES/2006/82564","ee":"https://doi.org/10.1155/ES/2006/82564","url":"https://dblp.org/rec/journals/ejes/MuhlbauerB06"},
+"url":"URL#3835261"
+},
+{
+"@score":"2",
+"@id":"3843900",
+"info":{"authors":{"author":[{"@pid":"95/5648","text":"Klaus Danne"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Dynamic reconfiguration of Distributed Arithmetic designs.","venue":"Int. J. Embed. Syst.","volume":"2","number":"1/2","pages":"51-61","year":"2006","type":"Journal Articles","key":"journals/ijes/DanneB06","doi":"10.1504/IJES.2006.010164","ee":"https://doi.org/10.1504/IJES.2006.010164","url":"https://dblp.org/rec/journals/ijes/DanneB06"},
+"url":"URL#3843900"
+},
+{
+"@score":"2",
+"@id":"3889490",
+"info":{"authors":{"author":[{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"A Flexible Reconfiguration Manager for the Erlangen Slot Machine.","venue":"ARCS Workshops","pages":"183-194","year":"2006","type":"Conference and Workshop Papers","key":"conf/arcs/MajerABT06","ee":"https://dl.gi.de/20.500.12116/29414","url":"https://dblp.org/rec/conf/arcs/MajerABT06"},
+"url":"URL#3889490"
+},
+{
+"@score":"2",
+"@id":"3965727",
+"info":{"authors":{"author":[{"@pid":"12/4178","text":"Felix Mühlbauer"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Design and Implementation of an Object Tracker on a Reconfigurable System on Chip.","venue":"IEEE International Workshop on Rapid System Prototyping","pages":"230","year":"2006","type":"Conference and Workshop Papers","key":"conf/rsp/MuhlbauerB06","doi":"10.1109/RSP.2006.13","ee":"https://doi.org/10.1109/RSP.2006.13","url":"https://dblp.org/rec/conf/rsp/MuhlbauerB06"},
+"url":"URL#3965727"
+},
+{
+"@score":"2",
+"@id":"4002522",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"70/508","text":"Ali Ahmadinia"}]},"title":"Dynamic Interconnection of Reconfigurable Modules on Reconfigurable Devices.","venue":"IEEE Des. Test Comput.","volume":"22","number":"5","pages":"443-451","year":"2005","type":"Journal Articles","key":"journals/dt/BobdaA05","doi":"10.1109/MDT.2005.109","ee":"https://doi.org/10.1109/MDT.2005.109","url":"https://dblp.org/rec/journals/dt/BobdaA05"},
+"url":"URL#4002522"
+},
+{
+"@score":"2",
+"@id":"4011698",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Online placement for dynamically reconfigurable devices.","venue":"Int. J. Embed. Syst.","volume":"1","number":"3/4","pages":"165-178","year":"2005","type":"Journal Articles","key":"journals/ijes/AhmadiniaBT05","doi":"10.1504/IJES.2005.009947","ee":"https://doi.org/10.1504/IJES.2005.009947","url":"https://dblp.org/rec/journals/ijes/AhmadiniaBT05"},
+"url":"URL#4011698"
+},
+{
+"@score":"2",
+"@id":"4011700",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"CoreMap - a rapid prototyping environment for distributed reconfigurable systems.","venue":"Int. J. Embed. Syst.","volume":"1","number":"1/2","pages":"65-77","year":"2005","type":"Journal Articles","key":"journals/ijes/Bobda05","doi":"10.1504/IJES.2005.008809","ee":"https://doi.org/10.1504/IJES.2005.008809","url":"https://dblp.org/rec/journals/ijes/Bobda05"},
+"url":"URL#4011700"
+},
+{
+"@score":"2",
+"@id":"4050798",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"70/365","text":"Kurapati Rajesham"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"64/288","text":"Adronis Niyonkuru"}]},"title":"Partial Configuration Design and Implementation Challenges on Xilinx Virtex FPGAs.","venue":"ARCS Workshops","pages":"61-66","year":"2005","type":"Conference and Workshop Papers","key":"conf/arcs/BobdaARMN05","url":"https://dblp.org/rec/conf/arcs/BobdaARMN05"},
+"url":"URL#4050798"
+},
+{
+"@score":"2",
+"@id":"4068840",
+"info":{"authors":{"author":[{"@pid":"65/707","text":"Jan van der Veen"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"94/1143","text":"Frank Hannig"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Defragmenting the Module Layout of a Partially Reconfigurable Device.","venue":"ERSA","pages":"92-104","year":"2005","type":"Conference and Workshop Papers","key":"conf/ersa/VeenFMABHT05","url":"https://dblp.org/rec/conf/ersa/VeenFMABHT05"},
+"url":"URL#4068840"
+},
+{
+"@score":"2",
+"@id":"4071634",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"52/4857","text":"Thomas Haller"},{"@pid":"64/2114","text":"André Linarth"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"The Erlangen Slot Machine - A Highly Flexible FPGA-Based Reconfigurable Platform.","venue":"FCCM","pages":"319-320","year":"2005","type":"Conference and Workshop Papers","key":"conf/fccm/BobdaMAHLTV05","doi":"10.1109/FCCM.2005.63","ee":"https://doi.org/10.1109/FCCM.2005.63","url":"https://dblp.org/rec/conf/fccm/BobdaMAHLTV05"},
+"url":"URL#4071634"
+},
+{
+"@score":"2",
+"@id":"4072455",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"DyNoC - A Dynamic Infrastructure for Communication in Dynamically Reconfigurable Devices.","venue":"FPL","pages":"153-158","year":"2005","type":"Conference and Workshop Papers","key":"conf/fpl/BobdaAMTFV05","doi":"10.1109/FPL.2005.1515715","ee":"https://doi.org/10.1109/FPL.2005.1515715","url":"https://dblp.org/rec/conf/fpl/BobdaAMTFV05"},
+"url":"URL#4072455"
+},
+{
+"@score":"2",
+"@id":"4072595",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"52/4857","text":"Thomas Haller"},{"@pid":"64/2114","text":"André Linarth"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"The Erlangen Slot Machine - Increasing Flexibility in FPGA-Based Reconfigurable Platforms.","venue":"FPT","pages":"37-42","year":"2005","type":"Conference and Workshop Papers","key":"conf/fpt/BobdaMAHLT05","url":"https://dblp.org/rec/conf/fpt/BobdaMAHLT05"},
+"url":"URL#4072595"
+},
+{
+"@score":"2",
+"@id":"4093552",
+"info":{"authors":{"author":[{"@pid":"44/5175-1","text":"Florian Dittmann 0001"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Temporal Graph Placement on Mesh-Based Coarse Grain Reconfigurable Systems Using the Spectral Method.","venue":"IESS","pages":"301-310","year":"2005","type":"Conference and Workshop Papers","key":"conf/iess/DittmannB05","doi":"10.1007/11523277_29","ee":"https://doi.org/10.1007/11523277_29","url":"https://dblp.org/rec/conf/iess/DittmannB05"},
+"url":"URL#4093552"
+},
+{
+"@score":"2",
+"@id":"4093598",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"Experiences in Teaching Reconfigurable Computing at Erlangen University.","venue":"EDUTECH","pages":"133-138","year":"2005","type":"Conference and Workshop Papers","key":"conf/ifip10-5/Bobda05","doi":"10.1007/0-387-30761-3_11","ee":"https://doi.org/10.1007/0-387-30761-3_11","url":"https://dblp.org/rec/conf/ifip10-5/Bobda05"},
+"url":"URL#4093598"
+},
+{
+"@score":"2",
+"@id":"4098835",
+"info":{"authors":{"author":[{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Packet Routing in Dynamically Changing Networks on Chip.","venue":"IPDPS","year":"2005","type":"Conference and Workshop Papers","key":"conf/ipps/MajerBAT05","doi":"10.1109/IPDPS.2005.323","ee":"https://doi.org/10.1109/IPDPS.2005.323","url":"https://dblp.org/rec/conf/ipps/MajerBAT05"},
+"url":"URL#4098835"
+},
+{
+"@score":"2",
+"@id":"4101187",
+"info":{"authors":{"author":[{"@pid":"86/3128","text":"Tertulien Ndjountche"},{"@pid":"78/5477","text":"Fa-Long Luo"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A CMOS front-end architecture for hard-disk drive read-channel equalizer.","venue":"ISCAS","pages":"2184-2187","year":"2005","type":"Conference and Workshop Papers","key":"conf/iscas/NdjountcheLB05","doi":"10.1109/ISCAS.2005.1465054","ee":"https://doi.org/10.1109/ISCAS.2005.1465054","url":"https://dblp.org/rec/conf/iscas/NdjountcheLB05"},
+"url":"URL#4101187"
+},
+{
+"@score":"2",
+"@id":"4112837",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"Building Up a Course in Reconfigurable Computing.","venue":"MSE","pages":"7-8","year":"2005","type":"Conference and Workshop Papers","key":"conf/mse/Bobda05","doi":"10.1109/MSE.2005.22","ee":"https://doi.org/10.1109/MSE.2005.22","url":"https://dblp.org/rec/conf/mse/Bobda05"},
+"url":"URL#4112837"
+},
+{
+"@score":"2",
+"@id":"4119694",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"28/6315","text":"Ji Ding"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"A Practical Approach for Circuit Routing on Dynamic Reconfigurable Devices.","venue":"IEEE International Workshop on Rapid System Prototyping","pages":"84-90","year":"2005","type":"Conference and Workshop Papers","key":"conf/rsp/AhmadiniaBDMTFV05","doi":"10.1109/RSP.2005.7","ee":"https://doi.org/10.1109/RSP.2005.7","url":"https://dblp.org/rec/conf/rsp/AhmadiniaBDMTFV05"},
+"url":"URL#4119694"
+},
+{
+"@score":"2",
+"@id":"4136041",
+"info":{"authors":{"author":[{"@pid":"56/6293","text":"Achim Rettberg"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"New Trends and Technologies in Computer-Aided Learning for Computer-Aided Design - IFIP TC10 Working Conference - EduTech 2005, October 20-21, Perth, Australia","venue":["EDUTECH","IFIP"],"volume":"192","publisher":"Springer","year":"2005","type":"Editorship","key":"conf/ifip10-5/2005","doi":"10.1007/0-387-30761-3","ee":"https://doi.org/10.1007/0-387-30761-3","url":"https://dblp.org/rec/conf/ifip10-5/2005"},
+"url":"URL#4136041"
+},
+{
+"@score":"2",
+"@id":"4138911",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"28/6315","text":"Ji Ding"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"A Practical Approach for Circuit Routing on Dynamic Reconfigurable Devices","venue":"CoRR","volume":"abs/cs/0503066","year":"2005","type":"Informal Publications","key":"journals/corr/abs-cs-0503066","ee":"http://arxiv.org/abs/cs/0503066","url":"https://dblp.org/rec/journals/corr/abs-cs-0503066"},
+"url":"URL#4138911"
+},
+{
+"@score":"2",
+"@id":"4139051",
+"info":{"authors":{"author":[{"@pid":"65/707","text":"Jan van der Veen"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"94/1143","text":"Frank Hannig"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Defragmenting the Module Layout of a Partially Reconfigurable Device","venue":"CoRR","volume":"abs/cs/0505005","year":"2005","type":"Informal Publications","key":"journals/corr/abs-cs-0505005","ee":"http://arxiv.org/abs/cs/0505005","url":"https://dblp.org/rec/journals/corr/abs-cs-0505005"},
+"url":"URL#4139051"
+},
+{
+"@score":"2",
+"@id":"4139577",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"DyNoC - A Dynamic Infrastructure for Communication in Dynamically Reconfigurable Devices","venue":"CoRR","volume":"abs/cs/0510039","year":"2005","type":"Informal Publications","key":"journals/corr/abs-cs-0510039","ee":"http://arxiv.org/abs/cs/0510039","url":"https://dblp.org/rec/journals/corr/abs-cs-0510039"},
+"url":"URL#4139577"
+},
+{
+"@score":"2",
+"@id":"4194240",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"A Dynamic Scheduling and Placement Algorithm for Reconfigurable Hardware.","venue":"ARCS","pages":"125-139","year":"2004","type":"Conference and Workshop Papers","key":"conf/arcs/AhmadiniaBT04","doi":"10.1007/978-3-540-24714-2_11","ee":"https://doi.org/10.1007/978-3-540-24714-2_11","url":"https://dblp.org/rec/conf/arcs/AhmadiniaBT04"},
+"url":"URL#4194240"
+},
+{
+"@score":"2",
+"@id":"4194248",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Generation of Distributed Arithmetic Designs for Reconfigurable Application.","venue":"ARCS Workshops","pages":"205-214","year":"2004","type":"Conference and Workshop Papers","key":"conf/arcs/BobdaAT04","ee":"https://dl.gi.de/20.500.12116/29368","url":"https://dblp.org/rec/conf/arcs/BobdaAT04"},
+"url":"URL#4194248"
+},
+{
+"@score":"2",
+"@id":"4211185",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"Optimal Routing-Conscious Dynamic Placement for Reconfigurable Devices.","venue":"FPL","pages":"847-851","year":"2004","type":"Conference and Workshop Papers","key":"conf/fpl/AhmadiniaBFTV04","doi":"10.1007/978-3-540-30117-2_87","ee":"https://doi.org/10.1007/978-3-540-30117-2_87","url":"https://dblp.org/rec/conf/fpl/AhmadiniaBFTV04"},
+"url":"URL#4211185"
+},
+{
+"@score":"2",
+"@id":"4211199",
+"info":{"authors":{"author":[{"@pid":"38/6866","text":"Brandon Blodget"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"56/2900","text":"Michael Hübner"},{"@pid":"64/288","text":"Adronis Niyonkuru"}]},"title":"Partial and Dynamically Reconfiguration of Xilinx Virtex-II FPGAs.","venue":"FPL","pages":"801-810","year":"2004","type":"Conference and Workshop Papers","key":"conf/fpl/BlodgetBHN04","doi":"10.1007/978-3-540-30117-2_81","ee":"https://doi.org/10.1007/978-3-540-30117-2_81","url":"https://dblp.org/rec/conf/fpl/BlodgetBHN04"},
+"url":"URL#4211199"
+},
+{
+"@score":"2",
+"@id":"4211200",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"60/5993","text":"Dirk Koch"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"A Dynamic NoC Approach for Communication in Reconfigurable Devices.","venue":"FPL","pages":"1032-1036","year":"2004","type":"Conference and Workshop Papers","key":"conf/fpl/BobdaMKAT04","doi":"10.1007/978-3-540-30117-2_121","ee":"https://doi.org/10.1007/978-3-540-30117-2_121","url":"https://dblp.org/rec/conf/fpl/BobdaMKAT04"},
+"url":"URL#4211200"
+},
+{
+"@score":"2",
+"@id":"4211388",
+"info":{"authors":{"author":[{"@pid":"60/5993","text":"Dirk Koch"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"53/6241","text":"Heiko Kalte"}]},"title":"FPGA architecture extensions for preemptive multitasking and hardware defragmentation.","venue":"FPT","pages":"433-436","year":"2004","type":"Conference and Workshop Papers","key":"conf/fpt/KochABK04","doi":"10.1109/FPT.2004.1393318","ee":"https://doi.org/10.1109/FPT.2004.1393318","url":"https://dblp.org/rec/conf/fpt/KochABK04"},
+"url":"URL#4211388"
+},
+{
+"@score":"2",
+"@id":"4235777",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"74/4176","text":"Marcus Bednara"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"A New Approach for On-line Placement on Reconfigurable Devices.","venue":"IPDPS","year":"2004","type":"Conference and Workshop Papers","key":"conf/ipps/AhmadiniaBBT04","doi":"10.1109/IPDPS.2004.1303104","ee":"https://doi.org/10.1109/IPDPS.2004.1303104","url":"https://dblp.org/rec/conf/ipps/AhmadiniaBBT04"},
+"url":"URL#4235777"
+},
+{
+"@score":"2",
+"@id":"4235778",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"74/4176","text":"Marcus Bednara"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Real-Time Configuration Code Decompression for Dynamic FPGA Self-Reconfiguration.","venue":"IPDPS","year":"2004","type":"Conference and Workshop Papers","key":"conf/ipps/AhmadiniaBBT04a","doi":"10.1109/IPDPS.2004.1303113","ee":"https://doi.org/10.1109/IPDPS.2004.1303113","url":"https://dblp.org/rec/conf/ipps/AhmadiniaBBT04a"},
+"url":"URL#4235778"
+},
+{
+"@score":"2",
+"@id":"4235864",
+"info":{"authors":{"author":[{"@pid":"95/5648","text":"Klaus Danne"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"Dynamic Reconfiguration of Distributed Arithmetic Controllers - Design Space Exploration and Trade-Off Analysis.","venue":"IPDPS","year":"2004","type":"Conference and Workshop Papers","key":"conf/ipps/DanneB04","doi":"10.1109/IPDPS.2004.1303116","ee":"https://doi.org/10.1109/IPDPS.2004.1303116","url":"https://dblp.org/rec/conf/ipps/DanneB04"},
+"url":"URL#4235864"
+},
+{
+"@score":"2",
+"@id":"4256928",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"60/5993","text":"Dirk Koch"},{"@pid":"91/2870","text":"Mateusz Majer"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Task scheduling for heterogeneous reconfigurable computers.","venue":"SBCCI","pages":"22-27","year":"2004","type":"Conference and Workshop Papers","key":"conf/sbcci/AhmadiniaBKMT04","doi":"10.1145/1016568.1016582","ee":"https://doi.org/10.1145/1016568.1016582","url":"https://dblp.org/rec/conf/sbcci/AhmadiniaBKMT04"},
+"url":"URL#4256928"
+},
+{
+"@score":"2",
+"@id":"4270796",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"f/SandorPFekete","text":"Sándor P. Fekete"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"},{"@pid":"65/707","text":"Jan van der Veen"}]},"title":"Optimal Routing-Conscious Dynamic Placement for Reconfigurable Devices","venue":"CoRR","volume":"cs.DS/0406035","year":"2004","type":"Informal Publications","key":"journals/corr/cs-DS-0406035","ee":"http://arxiv.org/abs/cs/0406035","url":"https://dblp.org/rec/journals/corr/cs-DS-0406035"},
+"url":"URL#4270796"
+},
+{
+"@score":"2",
+"@id":"4273000",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"Synthesis of dataflow graphs for reconfigurable systems using temporal partitioning and temporal placement.","pages":"1-90","year":"2003","type":"Books and Theses","key":"phd/dnb/Bobda03","ee":"http://ubdata.uni-paderborn.de/ediss/17/2003/bobda/disserta.pdf","url":"https://dblp.org/rec/phd/dnb/Bobda03"},
+"url":"URL#4273000"
+},
+{
+"@score":"2",
+"@id":"4328001",
+"info":{"authors":{"author":[{"@pid":"56/6293","text":"Achim Rettberg"},{"@pid":"08/3516","text":"Mauro Cesar Zanella"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"54/503-1","text":"Thomas Lehmann 0001"}]},"title":"A Fully Self-Timed Bit-Serial Pipeline Architecture for Embedded Systems.","venue":"DATE","pages":"11130-11131","year":"2003","type":"Conference and Workshop Papers","key":"conf/date/RettbergZBL03","doi":"10.1109/DATE.2003.10154","ee":"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10154","url":"https://dblp.org/rec/conf/date/RettbergZBL03"},
+"url":"URL#4328001"
+},
+{
+"@score":"2",
+"@id":"4331860",
+"info":{"authors":{"author":[{"@pid":"95/5648","text":"Klaus Danne"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"53/6241","text":"Heiko Kalte"}]},"title":"Increasing Efficiency by Partial Hardware Reconfiguration - Case Study of a Multi-Controller System.","venue":"Engineering of Reconfigurable Systems and Algorithms","pages":"147-153","year":"2003","type":"Conference and Workshop Papers","key":"conf/ersa/DanneBK03","url":"https://dblp.org/rec/conf/ersa/DanneBK03"},
+"url":"URL#4331860"
+},
+{
+"@score":"2",
+"@id":"4334112",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"95/5648","text":"Klaus Danne"},{"@pid":"64/2114","text":"André Linarth"}]},"title":"Efficient Implementation of the Singular Value Decomposition on a Reconfigurable System.","venue":"FPL","pages":"1123-1126","year":"2003","type":"Conference and Workshop Papers","key":"conf/fpl/BobdaDL03","doi":"10.1007/978-3-540-45234-8_135","ee":"https://doi.org/10.1007/978-3-540-45234-8_135","url":"https://dblp.org/rec/conf/fpl/BobdaDL03"},
+"url":"URL#4334112"
+},
+{
+"@score":"2",
+"@id":"4334130",
+"info":{"authors":{"author":[{"@pid":"95/5648","text":"Klaus Danne"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"53/6241","text":"Heiko Kalte"}]},"title":"Run-Time Exchange of Mechatronic Controllers Using Partial Hardware Reconfiguration.","venue":"FPL","pages":"272-281","year":"2003","type":"Conference and Workshop Papers","key":"conf/fpl/DanneBK03","doi":"10.1007/978-3-540-45234-8_27","ee":"https://doi.org/10.1007/978-3-540-45234-8_27","url":"https://dblp.org/rec/conf/fpl/DanneBK03"},
+"url":"URL#4334130"
+},
+{
+"@score":"2",
+"@id":"4334246",
+"info":{"authors":{"author":[{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"Temporal task clustering for online placement on reconfigurable hardware.","venue":"FPT","pages":"359-362","year":"2003","type":"Conference and Workshop Papers","key":"conf/fpt/AhmadiniaBT03","doi":"10.1109/FPT.2003.1275776","ee":"https://doi.org/10.1109/FPT.2003.1275776","url":"https://dblp.org/rec/conf/fpt/AhmadiniaBT03"},
+"url":"URL#4334246"
+},
+{
+"@score":"2",
+"@id":"4334254",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"95/5648","text":"Klaus Danne"},{"@pid":"70/508","text":"Ali Ahmadinia"},{"@pid":"t/JurgenTeich","text":"Jürgen Teich"}]},"title":"A new approach for reconfigurable massively parallel computers.","venue":"FPT","pages":"391-394","year":"2003","type":"Conference and Workshop Papers","key":"conf/fpt/BobdaDAT03","doi":"10.1109/FPT.2003.1275784","ee":"https://doi.org/10.1109/FPT.2003.1275784","url":"https://dblp.org/rec/conf/fpt/BobdaDAT03"},
+"url":"URL#4334254"
+},
+{
+"@score":"2",
+"@id":"4367345",
+"info":{"authors":{"author":[{"@pid":"56/6293","text":"Achim Rettberg"},{"@pid":"08/3516","text":"Mauro Cesar Zanella"},{"@pid":"54/503-1","text":"Thomas Lehmann 0001"},{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}]},"title":"A New Approach of a Self-Timed Bit-Serial Synchronous Pipeline Architecture.","venue":"IEEE International Workshop on Rapid System Prototyping","pages":"71-77","year":"2003","type":"Conference and Workshop Papers","key":"conf/rsp/RettbergZLB03","doi":"10.1109/IWRSP.2003.1207032","ee":"https://doi.org/10.1109/IWRSP.2003.1207032","url":"https://dblp.org/rec/conf/rsp/RettbergZLB03"},
+"url":"URL#4367345"
+},
+{
+"@score":"2",
+"@id":"4446541",
+"info":{"authors":{"author":{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"}},"title":"Temporal Partitioning and Sequencing of Dataflow Graphs on Reconfigurable Systems.","venue":"DIPES","pages":"185-194","year":"2002","type":"Conference and Workshop Papers","key":"conf/ifip10-3/Bobda02","url":"https://dblp.org/rec/conf/ifip10-3/Bobda02"},
+"url":"URL#4446541"
+},
+{
+"@score":"2",
+"@id":"4462920",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"58/5830","text":"Nils Steenbock"}]},"title":"A Rapid Prototyping Environment for Distributed Reconfigurable Systems.","venue":"IEEE International Workshop on Rapid System Prototyping","pages":"153-158","year":"2002","type":"Conference and Workshop Papers","key":"conf/rsp/BobdaS02","doi":"10.1109/IWRSP.2002.1029751","ee":"https://doi.org/10.1109/IWRSP.2002.1029751","url":"https://dblp.org/rec/conf/rsp/BobdaS02"},
+"url":"URL#4462920"
+},
+{
+"@score":"2",
+"@id":"4544553",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"58/5830","text":"Nils Steenbock"}]},"title":"Singular Value Decomposition on Distributed Reconfigurable Systems.","venue":"IEEE International Workshop on Rapid System Prototyping","pages":"38-43","year":"2001","type":"Conference and Workshop Papers","key":"conf/rsp/BobdaS01","doi":"10.1109/IWRSP.2001.933836","ee":"https://doi.org/10.1109/IWRSP.2001.933836","url":"https://dblp.org/rec/conf/rsp/BobdaS01"},
+"url":"URL#4544553"
+},
+{
+"@score":"2",
+"@id":"4600860",
+"info":{"authors":{"author":[{"@pid":"b/ChristopheBobda","text":"Christophe Bobda"},{"@pid":"54/503-1","text":"Thomas Lehmann 0001"}]},"title":"Efficient Building of Word Recongnizer in FPGAs for Term-Document Matrices Construction.","venue":"FPL","pages":"759-768","year":"2000","type":"Conference and Workshop Papers","key":"conf/fpl/BobdaL00","doi":"10.1007/3-540-44614-1_80","ee":"https://doi.org/10.1007/3-540-44614-1_80","url":"https://dblp.org/rec/conf/fpl/BobdaL00"},
+"url":"URL#4600860"
+}
+]
+}
+}
+}
